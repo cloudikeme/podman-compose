@@ -1,6 +1,5 @@
 ---
 # from https://github.com/Azure-Samples/azure-voting-app-redis/blob/master/docker-compose.yaml
-version: '3'
 services:
   azure-vote-back:
     image: mcr.microsoft.com/oss/bitnami/redis:6.0.8
