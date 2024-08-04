@@ -1,5 +1,4 @@
 ---
-version: '3'
 volumes:
   redis-node1-data:
   redis-node2-data:
